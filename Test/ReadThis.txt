@@ -1,1 +1,2 @@
 I have succesfully learned the beasics of GIT
+This is the new line after two days to verify if i remember what i learned
